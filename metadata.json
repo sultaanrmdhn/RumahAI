@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "A sleek and modern web application that leverages the Gemini API to generate high-quality images from text prompts. Users can input a descriptive prompt, and the AI will create a corresponding image with a 9:16 aspect ratio.",
+  "requestFramePermissions": []
+}
